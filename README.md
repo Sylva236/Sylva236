@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm 娄思妤 (Si-yu Lou)！
+An undergraduate student 
+majoring in Computer Science 
+from Chu Kochen Honors College of Zhejiang University.
 
 <!--
 **Sylva236/Sylva236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
